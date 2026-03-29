@@ -103,7 +103,7 @@ Natural language interface for clinical data. Converts plain-English questions i
 </td>
 <td width="50%">
 
-**[Premier League Match Predictor](https://github.com/Ahmedcompsci/premier-league-predictor)**
+**[Premier League Match Predictor](https://github.com/Ahmedcompsci/Premier-League-Match-Predictor)**
 
 End-to-end ML pipeline: data ingestion, feature engineering (rolling form, H2H stats), Random Forest training, and k-fold cross-validation. **85% classification accuracy** on held-out test set.
 
