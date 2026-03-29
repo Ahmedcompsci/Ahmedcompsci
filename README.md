@@ -13,16 +13,16 @@ Software Engineering graduate focused on backend systems, AI, and building pract
 - [MediQuery AI](https://github.com/Ahmedcompsci/mediquery-ai)  
   AI-powered system built with Python and FastAPI  
 
-- [Prompt Engineering Work](https://github.com/Ahmedcompsci/CloudPulse-Monitor)  
+- [CloudPulse-Monitor](https://github.com/Ahmedcompsci/CloudPulse-Monitor)  
   Created and evaluated 100+ prompts to improve model responses  
 
 ---
 
 <b>⚙️ Backend Development</b>  
-- [CloudPulse](https://github.com/Ahmedcompsci/cloudpulse)  
+- [CloudPulse - Monitor](https://github.com/Ahmedcompsci/cloudpulse)  
   Backend system for monitoring and handling data  
 
-- [Loan API](https://github.com/Ahmedcompsci/loan-api)  
+- [Loan-API](https://github.com/Ahmedcompsci/loan-APi)  
   REST API for processing and managing loan-related operations  
 
 ---
