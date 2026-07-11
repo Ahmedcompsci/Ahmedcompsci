@@ -19,7 +19,7 @@
 I build backend systems and APIs with a focus on clean architecture, reliability, and practical AI integration. My work spans REST microservices, async monitoring infrastructure, ML data pipelines, and NLP-powered clinical tools.
 
 - 🎓 **M.S. Computer Science** — Georgia Institute of Technology (OMSCS) *(Starting Aug 2026)*
-- 🎓 **B.S. Computer Science** — Winona State University *(Dec 2025)*
+- 🎓 **B.S. Computer Science** — Winona State University *(May 2025)*
 - 🤖 **Prompt Engineer @ Outlier** — evaluating and stress-testing AI model outputs
 - 🏥 Background in healthcare data systems and HIPAA-regulated environments
 - 📍 Rochester, MN
